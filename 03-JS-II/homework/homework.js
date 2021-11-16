@@ -178,7 +178,7 @@ function esVerdadero(valor){
   if(valor === true ) {
     return 'soy verdadero';
   }else{
-    return 'soy falso';
+    return 'el valos no es extremadamente falso';
   }
 }
 
